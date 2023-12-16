@@ -9,3 +9,7 @@ Instructions and code for mapping submerged aquatic vegetation from Planet satel
 
    **Option B**: Longer term if you are funded by a US federal agency you can apply for access via CSDA, this gives you a larger allocation compared to the E&R account. You are allowed to have both this and an E&R account.    https://www.earthdata.nasa.gov/esds/csda/commercial-datasets.
 
+3. The instructions folder details how to order Planet imagery from your browser, how to order bathymetery (DEM) from the NOAA website and how to run the workflow that I use for classifying SAV presence/absence in both ArcGIS Pro and QGIS (free software).
+
+4. The Codes folder contains python scripts that work with the ArcGIS arcpy package for running all of the processing step in batch mode.
+
